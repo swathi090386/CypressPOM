@@ -1,0 +1,166 @@
+{
+  "baseUrl": "http://169.61.105.110/medicareAdvantage_sandbox/medicare-advantage",
+  "landingPage_url": "http://169.61.105.110/medicareAdvantage_sandbox/landing-page",
+  "homePage_url":"http://169.61.105.110/medicareAdvantage_sandbox/home",
+ "preferencePage_url": "http://169.61.105.110/medicareAdvantage_sandbox/preferences",
+ "managePrescription_url": "http://169.61.105.110/medicareAdvantage_sandbox/manage-prescriptions",
+"managePharmacy_url":"http://169.61.105.110/medicareAdvantage_sandbox/manage-pharmacies",
+"planSelection_url":"http://169.61.105.110/medicareAdvantage_sandbox/plan-selection",
+"manageProviders_url": "http://169.61.105.110/medicareAdvantage_sandbox/manage-providers",
+
+  "username": "testuser@gmail.com",
+  "password": "user123",
+"tobacco":"No",
+  "email": "ShigaPOM@gmail.com",
+  "invalidEmail":"sh",
+  "name": "Shigapage",
+  "editName":"Ananya",
+  "gender":"female",
+  "yearOfBirth":"1957",
+  "monthOfBirth":"JUN",
+  "street":"483 Tucana Street",
+  "lifeExpectancy":"86",
+  "zip": "27591",
+"communicationEmail":"Shigha@gmail.com",
+"editNumber":"6087654563",
+"contactNumber":"6087652341",
+"healthProfile":"Moderate Health",
+"magiTier":" $ 212K to $ 266K ",
+"taxFilingStatus":"jointly",
+"lowcostPharmacyRadius":"4",
+"conceirge":"No",
+"radius" : "100",
+"ipname" : "UNIVERSITY OF COLORADO HOSP",
+  
+  "drugName1": "Gabapentin",
+  "drugQuantity1": "30",
+  "drugCategory1": "Neurological",
+  
+  "drugName2": "Amoxicillin",
+  "drugQuantity2": "45",
+  "drugCategory2": "Antibiotics",
+  
+  "drugName3": "Ibuprofen",
+  "drugQuantity3": "60",
+  "drugCategory3": "Pain Relief",
+
+  "drugName3_a": "Ibup",
+  "drugQuantity3_a": "60",
+  "drugCategory3_a": "Pain Relief",
+
+  "drugName4": "ATORVALIQ",
+  "drugQuantity4": "90",
+  "drugCategory4": "Cardiovascular",
+   
+  "drugQuantity0": "0",
+  "anotherDrug": "Cipro",
+  "invalidDrug": "Albuterol HFA",
+
+
+
+
+  "pharmacyzipcode1" : "80109",
+  "pharmacyzipcode2" : "5000",
+  "pharmacyInvalidzipcode3": "as1",
+  "pharmacyInvalidzipcode4":"12",
+  "pharmacyInvalidzipcode5":"800108",
+  "pharmacyInvalidzipcode6":"909",
+  "pharmacyzipcode7":"80124",
+  "pharmacyzipcode8":"80108",
+  "pharmacyIncorrectzipcode9":"12345",
+  "pharmacyIncorrectzipcode10":"50000",
+
+  "pharmacyradius1" : "5",
+  "pharmacyradius2" : "10",
+  "pharmacyInvalidradius3" : "ab@",
+  "pharmacyradius4" : "15",
+
+
+
+  "pharmacyaddress1" : "6067 braylin ln, castle pines,co",
+  "pharmacyInvalidaddress2" : "qddff",
+
+  "pharmacyname1":"KING SOOPERS",
+  "pharmacyInvalidname2":"ad232",
+
+  "supplimentPlanG1": "Physicians Mutual (PSIC)",
+  "supplimentPlanG2": "MedMutual Protect",
+  "supplimentPlanG3": "UnitedHealthcare Ins Co" ,
+  "supplimentPlanG4": "Cigna National Health Ins Co",
+  "supplimentInsuranceCarrier": "HUMANA GRP (60052)",
+  "supplimentPlanN1": "Cigna National Health Ins Co",
+  "ProvNursingHome_PageEnterEmail": "abc@gmail.com",
+  "ProvNursingHome_PageEnterName":"niv",
+  "ProvNursingHome_Lifeexpectancy":"85",
+  "ProvNursingHome_RadiusinSearchProvider":100,
+  "ProvNursingHome_RadiusinProviderSectionDistance":70,
+    "providerdialysisfacilityname": "Davita Englewood Dialysis Center",
+    "providerdialysisstreetname": "Girard",
+    "providerdialysiszipcode": "80113",
+    "providerdialysisdistance": "10",
+    "medicalequipmentfacilityname": "nebulizer",
+    "medicalequipmentstreet": "holly",
+    "medicalequipmentzipcode": "80112",
+    "medicalequipmentradius": "15",
+    "medicalequipmentdistance": "10",
+
+    "ProviderHosRadius":"25",
+    "ProviderHosOverAllRat":"4",
+    "ProviderHosName":"RALEIGH OAKS BEHAVIORAL HEALTH",
+    "ProviderHosExepectName":"RALEIGH OAKS BEHAVIO...",
+    "ProviderHosPatSurveyRat":"2",
+    "ProviderHomeHealthCareZipCode": "80113",
+  "ProviderHomeHealthCareZip": "8011",
+  "ProviderHomeHealthCareStreet": "Girard",
+  "ProviderHomeHealthName": "CAREBRIDGE",
+
+  "PDPPlan1":"Wellcare plan",
+  "PDPPlan2":"CignahealthCare",
+  "PDPPlan3":"HumanaBasic",
+  "PDPPlan4":"AARP",
+  "PDPPlaninsurancefilter":"HumanaPlanfrominsurance",
+
+
+"healthProfileOne":"Best Health",
+"healthProfileTwo":"Good Health",
+"healthProfileThree":"Moderate Health",
+"healthProfileFour":"Poor Health",
+"healthProfileFive":"Sick Health",
+"genderM":"Male",
+"taxFilingStatusIndividual":"Individual",
+"magiTierOne":" $ 212 ",
+"magiTierTwo":" $ 212K to $ 266K ",
+"magiTierThree":" $ 212K to $ 266K ",
+"magiTierFour":" $ 212K to $ 266K ",
+"magiTierFive":" $ 212K to $ 266K ",
+"magiTierSix":" $ 212K to $ 266K ",
+"ConceirgeNo":"No",
+"ConceirgeYes":"Yes",
+"ConceriergeAmount":"300",
+
+ "doctorName":"Markhanna" ,
+ "doctorNameOption":"pho",
+ "businessName":"Mark",
+ "docter_street":"143 gavin street",
+ "zipCode2":"80108",
+ "doctorradius":"3",
+
+ "hospiceCareName": " Lifespring home care",
+"hospiceZip":"80134"
+
+ 
+
+
+
+
+
+
+ 
+
+  
+
+
+
+
+ 
+}
